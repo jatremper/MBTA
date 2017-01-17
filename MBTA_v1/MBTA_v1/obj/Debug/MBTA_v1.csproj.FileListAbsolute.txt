@@ -1,0 +1,11 @@
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\bin\Debug\MBTA_v1.exe.config
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\bin\Debug\MBTA_v1.exe
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\bin\Debug\MBTA_v1.pdb
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\obj\Debug\MBTA_v1.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\obj\Debug\MBTA_v1.Main.resources
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\obj\Debug\MBTA_v1.Properties.Resources.resources
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\obj\Debug\MBTA_v1.csproj.GenerateResource.Cache
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\obj\Debug\MBTA_v1.exe
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\MBTA_v1\MBTA_v1\obj\Debug\MBTA_v1.pdb
